@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a987e653-253b-4fab-971a-4739978077d8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lCS4mdJmEbPUsWBsUHh7vszRMo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="4" Folder0="D:\bibliotecas\IntelliJ IDEs\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder1="D:\bibliotecas\IntelliJ IDEs\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder2="D:\bibliotecas\IntelliJ IDEs\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder3="D:\bibliotecas\IntelliJ IDEs\IntelliJ.Portuguese.Brazil.Dictionary-master" CustomDictionaries="4" CustomDictionary0="D:\bibliotecas\IntelliJ IDEs\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil.dic" CustomDictionary1="D:\bibliotecas\IntelliJ IDEs\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms.dic" CustomDictionary2="D:\bibliotecas\IntelliJ IDEs\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms_without-accents.dic" CustomDictionary3="D:\bibliotecas\IntelliJ IDEs\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_without-accents.dic" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a987e653-253b-4fab-971a-4739978077d8" name="Default Changelist" comment="" />
+      <created>1607099398817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607099398817</updated>
+      <workItem from="1607099401018" duration="16891000" />
+      <workItem from="1614599681830" duration="575000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="541" y="231" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1607100450380">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="541" y="231" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.860@0.0.1440.860" timestamp="1607100450380" />
+    <state x="496" y="153" key="NewPhpClassDialog" timestamp="1607103844313">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="496" y="153" key="NewPhpClassDialog/0.0.1440.860@0.0.1440.860" timestamp="1607103844313" />
+    <state x="554" y="353" key="NewPhpFileDialog" timestamp="1607100982739">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="554" y="353" key="NewPhpFileDialog/0.0.1440.860@0.0.1440.860" timestamp="1607100982739" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1614600261531">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1614600261531" />
+  </component>
+</project>
